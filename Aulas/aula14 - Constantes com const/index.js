@@ -2,4 +2,6 @@
 // Definir valor para a constante no momento de sua criação.
 const primeiroNumero = 5;
 const segundoNumero = 10;
-const conta = primeiroNumero * segundoNumero;
+const resultado = primeiroNumero * segundoNumero;
+const resultadoDuplicado = resultado * 2;
+console.log(resultadoDuplicado);
